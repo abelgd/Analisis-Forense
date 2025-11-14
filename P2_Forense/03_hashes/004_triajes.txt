@@ -1,0 +1,68 @@
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\01_systeminfo.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          92803BAA0CCF76E123FACFF6117564CF02748D6BFB8663A934E8F031FEC57547       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\02_ipconfig_all.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          814B5219A3060156C9ADAB0C6AA9BCC192EF49F2E59700E418D607B1F2E4E48F       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\03_routeprint.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          108D387B6091D033FCD4B7DEEA253E124719FDC8D690F9A9199B1A6571E1443D       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\04_arp.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          C778A94F55A6A69579C8654680DFB00F871EE9FF21FBAA8540F1AE89A7136BEB       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\05_netstat_ano.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          1A317CB20F5DB8438614505B307708C1D31B00555D1A92EBEC1FD9A22AF55062       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\06_tasklist_v.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          C894AF027BB9465B11AAE764991E650A386E9A412C7545E2C7D190675095235E       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\07_wmic_process_full.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          24F90E9D810028B11568C21A8D4B0E1DF6B4B96BF8DC90EF62B648B847BC5EAD       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\08_schtasks.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          B0F022EE720E768C11566E57CC03F82B68C1F04C796B9E8A3173FA4308D125BB       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\09_logger_users.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          D6922AFA9235B508ABA9890BBDF3CE31E295E99A11DCC5D703339C37422CB579       C:\Users\Abel\Desktop\CE Cibe...
+
+
+PS C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\02_triage> Get-FileHash .\10_env_vars.txt -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          BFAFE2DAFE88169AAC931E8ACF948DC15D8311B63AF6C79AA2063F3C26BEF3A3       C:\Users\Abel\Desktop\CE Cibe...

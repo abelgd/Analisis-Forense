@@ -1,0 +1,1 @@
+> No se han podido subir las imágenes forenses (memoria RAM y disco) al repositorio de GitHub debido a restricciones de espacio y tamaño de archivo.

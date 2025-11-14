@@ -1,0 +1,33 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 03
+Evidence Number:  01
+Unique Description: P2 Forense
+Examiner:  Abel Garcia Dominguez
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\03_memory\002_disk_image:
+ Source data size: 32768 MB
+ Sector count:    67108864
+[Computed Hashes]
+ MD5 checksum:    5b1da3aef3b7e7bc1e8e1d953a7d10a2
+ SHA1 checksum:   fbe69e0ed4f2bf99ab43c9eed7b24025ea2a4471
+SHA256: 619A1C98EB1248F670FE07267525DBD04760725952443F48CF39992059DB155F
+
+Image Information:
+ Acquisition started:   Thu Nov 13 13:32:53 2025
+ Acquisition finished:  Thu Nov 13 13:35:33 2025
+ Segment list:
+  C:\Users\Abel\Desktop\CE Ciberseguridad\Analisis Forense\P2_Forensic\03_memory\002_disk_image.001
+ COMPUTED HASH :  5b1da3aef3b7e7bc1e8e1d953a7d10a2
+ COMPUTED HASH :  fbe69e0ed4f2bf99ab43c9eed7b24025ea2a4471
+
+Image Verification Results:
+ Verification started:  Thu Nov 13 13:35:34 2025
+ Verification finished: Thu Nov 13 13:36:55 2025
+ MD5 checksum:    5b1da3aef3b7e7bc1e8e1d953a7d10a2 : verified
+ SHA1 checksum:   fbe69e0ed4f2bf99ab43c9eed7b24025ea2a4471 : verified
